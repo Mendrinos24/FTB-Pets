@@ -1,0 +1,4 @@
+name: FTBPets
+version: 0.1
+main: pets.common.Pets
+author: Mendrinos_
